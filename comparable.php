@@ -2,5 +2,5 @@
 
 interface comparable
 {
-   public  function compareTo(club $listclub);
+   public  function compareTo(club $club);
 }
